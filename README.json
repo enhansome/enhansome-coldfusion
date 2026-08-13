@@ -1,0 +1,491 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MXUnit",
+          "description": "xUnit style unit testing framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2019-11-20T15:53:32Z",
+            "owner": "mxunit",
+            "repo": "mxunit",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFSelenium",
+          "description": "A native Selenium RC binding for ColdFusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2020-11-26T16:29:49Z",
+            "owner": "teamcfadvance",
+            "repo": "CFSelenium",
+            "stars": 81
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TestBox",
+          "description": "BDD style unit testing framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2026-08-04T18:58:12Z",
+            "owner": "Ortus-Solutions",
+            "repo": "TestBox",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mxunit-watch",
+          "description": "watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2021-05-07T13:57:55Z",
+            "owner": "dswitzer",
+            "repo": "mxunit-watch",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Testing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DI/1 - Inject One",
+          "description": "a very lightweight, convention over configuration, dependency injection (inversion of control) framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2024-06-24T23:57:53Z",
+            "owner": "framework-one",
+            "repo": "di1",
+            "stars": 105
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColdSpring",
+          "description": "ColdSpring makes the configuration and dependencies of your CFCs easier to manage. ColdSpring brings the power of the popular Spring framework for Java to ColdFusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2016-10-25T14:12:52Z",
+            "owner": "coldspringframework",
+            "repo": "coldspring1",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Dependency Injection"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ContentBox",
+          "description": "A powerful modular content management engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2026-08-10T23:11:35Z",
+            "owner": "Ortus-Solutions",
+            "repo": "ContentBox",
+            "stars": 126
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Preside CMS",
+          "description": "an open source CMS for the Railo language",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2026-08-13T10:39:48Z",
+            "owner": "pixl8",
+            "repo": "Preside-CMS",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FarCry CMS",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2017-02-14T05:16:21Z",
+            "owner": "farcrycore",
+            "repo": "plugin-farcrycms",
+            "stars": 7
+          }
+        }
+      ],
+      "title": "CMS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cfmongodb",
+          "description": "MongoDB client wrapper for ColdFusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2015-11-02T17:24:49Z",
+            "owner": "marcesher",
+            "repo": "cfmongodb",
+            "stars": 87
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFCouchbase",
+          "description": "Couchbase NoSQL and caching client wrapper for ColdFusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2022-03-08T22:20:36Z",
+            "owner": "Ortus-Solutions",
+            "repo": "cfcouchbase-sdk",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFArango",
+          "description": "ArangoDB client for ColdFusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2020-02-11T21:00:16Z",
+            "owner": "dajester2013",
+            "repo": "CFArango",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "NoSQL"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "BugLogHQ",
+          "description": "Exception Tracking",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2021-08-19T20:46:46Z",
+            "owner": "oarevalo",
+            "repo": "BugLogHQ",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfpayment",
+          "description": "ColdFusion payment processing library makes plumbing e-commerce apps easy. Charging credit cards has never been easier. Inspired by Ruby's ActiveMerchant.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2024-02-03T21:57:44Z",
+            "owner": "ghidinelli",
+            "repo": "cfpayment",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UnderscoreCF",
+          "description": "An UnderscoreJS port for Coldfusion. Functional programming library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2017-10-06T01:21:57Z",
+            "owner": "russplaysguitar",
+            "repo": "UnderscoreCF",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JavaLoader",
+          "description": "JavaLoader is a library that has been built to ease the use, development and integration of Java within ColdFusion applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2017-03-28T23:03:10Z",
+            "owner": "markmandel",
+            "repo": "JavaLoader",
+            "stars": 62
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Moment.cfc",
+          "description": "Moment.js inspired date/time manipulation library for CFML (not a direct port)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2025-10-13T11:07:57Z",
+            "owner": "atuttle",
+            "repo": "momentcfc",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mustache.cfc",
+          "description": "{{ mustache }} for ColdFusion",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "ColdFusion",
+            "last_commit": "2016-08-10T13:40:24Z",
+            "owner": "rip747",
+            "repo": "Mustache.cfc",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cfbackport",
+          "description": "Back porting features contained in newer versions of ColdFusion.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2014-09-23T13:42:49Z",
+            "owner": "misterdai",
+            "repo": "cfbackport",
+            "stars": 27
+          }
+        }
+      ],
+      "title": "Other Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "IntelliJ Idea",
+          "description": "Java IDE, CFML Support available via plugin",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T11:21:38Z",
+            "owner": "JetBrains",
+            "repo": "intellij-plugins",
+            "stars": 2265
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFML Package for Sublime Text 3",
+          "description": "CFML syntax highlighting as well as function and tag completions for Sublime Text 3",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-27T23:10:50Z",
+            "owner": "jcberquist",
+            "repo": "sublimetext-cfml",
+            "stars": 114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFML Language for Atom",
+          "description": "CFML Language plugin for Atom",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-24T20:11:54Z",
+            "owner": "atuttle",
+            "repo": "atom-language-cfml",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TextMate",
+          "description": "TextMate support for ColdFusion",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2018-07-06T08:45:52Z",
+            "owner": "textmate",
+            "repo": "coldfusion.tmbundle",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "Editors"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ColdFusion UI the Right Way",
+          "description": "A list of articles demonstrating how to do UI with ColdFusion on the back end.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2022-11-15T21:38:49Z",
+            "owner": "cfjedimaster",
+            "repo": "ColdFusion-UI-the-Right-Way",
+            "stars": 99
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ColdFusion Koans",
+          "description": "The ColdFusion Koans are a set of unit tests that the user must make pass by filling in values",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "ColdFusion",
+            "last_commit": "2015-12-08T10:58:46Z",
+            "owner": "nodoherty",
+            "repo": "ColdFusion-Koans",
+            "stars": 56
+          }
+        }
+      ],
+      "title": "References"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Vagrant LEMTL",
+          "description": "Vagrant box with Linux, Nginx, MariaDB (or MySQL), Tomcat, and Lucee for local development with CFML by Mike Sprague",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "ColdFusion",
+            "last_commit": "2016-12-01T23:28:49Z",
+            "owner": "mikesprague",
+            "repo": "vagrant-lemtl",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lucee5-heroku",
+          "description": "Application template for deploying Lucee 5 apps to Heroku by Mike Sprague",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "ColdFusion",
+            "last_commit": "2022-05-13T19:09:30Z",
+            "owner": "mikesprague",
+            "repo": "lucee5-heroku",
+            "stars": 9
+          }
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Railo Documentation",
+          "description": "Official Railo docs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2014-12-18T08:29:47Z",
+            "owner": "getrailo",
+            "repo": "railo",
+            "stars": 254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFScript Reference",
+          "description": "CFScript Documentation by Adam Cameron",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2021-05-06T21:24:20Z",
+            "owner": "adamcameron",
+            "repo": "cfscript",
+            "stars": 104
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CFML Tags to CFScript Reference",
+          "description": "CFML Tag to Script Conversions by Tony Junkes",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-10-17T13:45:25Z",
+            "owner": "tonyjunkes",
+            "repo": "cfml-tags-to-cfscript",
+            "stars": 37
+          }
+        }
+      ],
+      "title": "Documentation"
+    },
+    {
+      "description": "To the extent possible under law, Sean Coyne has waived all copyright and related or neighboring rights to this work.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T13:52:59.923Z",
+    "original_repository": "seancoyne/awesome-coldfusion",
+    "original_repository_sha": "55a2d47edd6fa8b4cc4ac224cf48a3c6a30a36ce",
+    "enhanced_repository": "enhansome/enhansome-coldfusion",
+    "enhanced_repository_description": null,
+    "title": "Awesome ColdFusion with stars"
+  }
+}
