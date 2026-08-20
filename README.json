@@ -129,7 +129,7 @@
             "archived": false,
             "id": 19508826,
             "language": "ColdFusion",
-            "last_commit": "2026-08-19T09:25:21Z",
+            "last_commit": "2026-08-19T20:42:46Z",
             "owner": "pixl8",
             "repo": "Preside-CMS",
             "stars": 75
@@ -327,7 +327,7 @@
             "archived": false,
             "id": 5453324,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T11:03:09Z",
+            "last_commit": "2026-08-20T11:35:38Z",
             "owner": "JetBrains",
             "repo": "intellij-plugins",
             "stars": 2265
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T13:13:52.562Z",
+    "last_updated": "2026-08-20T13:15:42.394Z",
     "original_repository": "seancoyne/awesome-coldfusion",
     "original_repository_id": 21964310,
     "original_repository_sha": "55a2d47edd6fa8b4cc4ac224cf48a3c6a30a36ce",
