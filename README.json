@@ -42,7 +42,7 @@
             "archived": false,
             "id": 18945285,
             "language": "ColdFusion",
-            "last_commit": "2026-08-04T18:58:12Z",
+            "last_commit": "2026-08-23T02:09:46Z",
             "owner": "Ortus-Solutions",
             "repo": "TestBox",
             "stars": 73
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-22T11:59:14Z",
             "owner": "JetBrains",
             "repo": "intellij-plugins",
-            "stars": 2266
+            "stars": 2265
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T13:04:38.579Z",
+    "last_updated": "2026-08-23T13:05:47.058Z",
     "original_repository": "seancoyne/awesome-coldfusion",
     "original_repository_id": 21964310,
     "original_repository_sha": "55a2d47edd6fa8b4cc4ac224cf48a3c6a30a36ce",
