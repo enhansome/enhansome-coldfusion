@@ -327,7 +327,7 @@
             "archived": false,
             "id": 5453324,
             "language": "JavaScript",
-            "last_commit": "2026-08-25T03:19:07Z",
+            "last_commit": "2026-08-25T11:07:42Z",
             "owner": "JetBrains",
             "repo": "intellij-plugins",
             "stars": 2266
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:29:39.670Z",
+    "last_updated": "2026-08-25T13:15:41.431Z",
     "original_repository": "seancoyne/awesome-coldfusion",
     "original_repository_id": 21964310,
     "original_repository_sha": "55a2d47edd6fa8b4cc4ac224cf48a3c6a30a36ce",
