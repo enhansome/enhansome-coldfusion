@@ -327,10 +327,10 @@
             "archived": false,
             "id": 5453324,
             "language": "JavaScript",
-            "last_commit": "2026-08-26T13:57:05Z",
+            "last_commit": "2026-08-27T20:08:38Z",
             "owner": "JetBrains",
             "repo": "intellij-plugins",
-            "stars": 2266
+            "stars": 2267
           }
         },
         {
@@ -506,7 +506,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:30:02.930Z",
+    "last_updated": "2026-08-27T22:25:05.640Z",
     "original_repository_info": {
       "archived": false,
       "id": 21964310,
