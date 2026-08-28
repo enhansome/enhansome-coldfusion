@@ -16,7 +16,8 @@
             "owner": "mxunit",
             "repo": "mxunit",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "teamcfadvance",
             "repo": "CFSelenium",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "Ortus-Solutions",
             "repo": "TestBox",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "dswitzer",
             "repo": "mxunit-watch",
             "stars": 13
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "Testing"
@@ -82,7 +86,8 @@
             "owner": "framework-one",
             "repo": "di1",
             "stars": 105
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -97,7 +102,8 @@
             "owner": "coldspringframework",
             "repo": "coldspring1",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "Dependency Injection"
@@ -118,7 +124,8 @@
             "owner": "Ortus-Solutions",
             "repo": "ContentBox",
             "stars": 126
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -133,7 +140,8 @@
             "owner": "pixl8",
             "repo": "Preside-CMS",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -148,7 +156,8 @@
             "owner": "farcrycore",
             "repo": "plugin-farcrycms",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "CMS"
@@ -169,7 +178,8 @@
             "owner": "marcesher",
             "repo": "cfmongodb",
             "stars": 87
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -184,7 +194,8 @@
             "owner": "Ortus-Solutions",
             "repo": "cfcouchbase-sdk",
             "stars": 17
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -199,7 +210,8 @@
             "owner": "dajester2013",
             "repo": "CFArango",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "NoSQL"
@@ -220,7 +232,8 @@
             "owner": "oarevalo",
             "repo": "BugLogHQ",
             "stars": 152
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -235,7 +248,8 @@
             "owner": "ghidinelli",
             "repo": "cfpayment",
             "stars": 92
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -250,7 +264,8 @@
             "owner": "russplaysguitar",
             "repo": "UnderscoreCF",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -265,7 +280,8 @@
             "owner": "markmandel",
             "repo": "JavaLoader",
             "stars": 62
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -280,7 +296,8 @@
             "owner": "atuttle",
             "repo": "momentcfc",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -295,7 +312,8 @@
             "owner": "rip747",
             "repo": "Mustache.cfc",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -310,7 +328,8 @@
             "owner": "misterdai",
             "repo": "cfbackport",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "Other Libraries"
@@ -327,11 +346,12 @@
             "archived": false,
             "id": 5453324,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T20:08:38Z",
+            "last_commit": "2026-08-28T14:22:56Z",
             "owner": "JetBrains",
             "repo": "intellij-plugins",
-            "stars": 2267
-          }
+            "stars": 2268
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -346,7 +366,8 @@
             "owner": "jcberquist",
             "repo": "sublimetext-cfml",
             "stars": 114
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -361,7 +382,8 @@
             "owner": "atuttle",
             "repo": "atom-language-cfml",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -376,7 +398,8 @@
             "owner": "textmate",
             "repo": "coldfusion.tmbundle",
             "stars": 15
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "Editors"
@@ -397,7 +420,8 @@
             "owner": "cfjedimaster",
             "repo": "ColdFusion-UI-the-Right-Way",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -412,7 +436,8 @@
             "owner": "nodoherty",
             "repo": "ColdFusion-Koans",
             "stars": 56
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "References"
@@ -433,7 +458,8 @@
             "owner": "mikesprague",
             "repo": "vagrant-lemtl",
             "stars": 38
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -448,7 +474,8 @@
             "owner": "mikesprague",
             "repo": "lucee5-heroku",
             "stars": 9
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "Resources"
@@ -469,7 +496,8 @@
             "owner": "getrailo",
             "repo": "railo",
             "stars": 254
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -484,7 +512,8 @@
             "owner": "adamcameron",
             "repo": "cfscript",
             "stars": 104
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         },
         {
           "node_type": "item",
@@ -499,14 +528,15 @@
             "owner": "tonyjunkes",
             "repo": "cfml-tags-to-cfscript",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T22:27:44.178Z"
         }
       ],
       "title": "Documentation"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T22:25:05.640Z",
+    "last_updated": "2026-08-28T22:27:44.178Z",
     "original_repository_info": {
       "archived": false,
       "id": 21964310,
