@@ -198,8 +198,8 @@
             "id": 19508826,
             "language": "ColdFusion",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-03T07:13:14Z",
-            "open_issues": 68,
+            "last_commit": "2026-09-04T12:37:11Z",
+            "open_issues": 69,
             "owner": "pixl8",
             "repo": "Preside-CMS",
             "stars": 75,
@@ -473,11 +473,11 @@
             "id": 5453324,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-09-03T15:26:23Z",
+            "last_commit": "2026-09-04T14:03:48Z",
             "open_issues": 14,
             "owner": "JetBrains",
             "repo": "intellij-plugins",
-            "stars": 2268,
+            "stars": 2269,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:44.178Z"
@@ -726,7 +726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T16:32:06.364Z",
+    "last_updated": "2026-09-04T16:27:48.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ColdFusion frameworks, libraries and software.",
