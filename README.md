@@ -1,6 +1,6 @@
 # Awesome ColdFusion with stars
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,030 | 🐛 24 | 📅 2026-09-08.
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,029 | 🐛 23 | 📅 2026-09-08.
 
 Pull requests very welcome.
 
@@ -50,7 +50,7 @@ Pull requests very welcome.
 ## CMS
 
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) ⭐ 126 | 🐛 20 | 🌐 ColdFusion | 📅 2026-09-10 - A powerful modular content management engine
-* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 68 | 🌐 ColdFusion | 📅 2026-09-16 - an open source CMS for the Railo language
+* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 69 | 🌐 ColdFusion | 📅 2026-09-17 - an open source CMS for the Railo language
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) ⭐ 7 | 🐛 0 | 🌐 ColdFusion | 📅 2017-02-14
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [Mura](https://www.murasoftware.com/)
@@ -132,4 +132,4 @@ To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
