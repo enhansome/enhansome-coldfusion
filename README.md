@@ -1,10 +1,10 @@
 # Awesome ColdFusion with stars
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,033 | 🐛 26 | 📅 2026-09-08.
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 26 | 📅 2026-09-08.
 
 Pull requests very welcome.
 
-* [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion) ⭐ 124 | 🐛 3 | 📅 2021-12-29
+* [Awesome ColdFusion](https://github.com/seancoyne/awesome-coldfusion)
   * [Engines](#engines)
   * [Application Frameworks](#application-frameworks)
   * [Testing](#testing)
@@ -128,8 +128,8 @@ Pull requests very welcome.
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) ⭐ 124 | 🐛 3 | 📅 2021-12-29 has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awesome-coldfusion) has waived all copyright and related or neighboring rights to this work.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
