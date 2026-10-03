@@ -473,7 +473,7 @@
             "id": 5453324,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-02T20:36:58Z",
+            "last_commit": "2026-10-03T16:27:15Z",
             "open_issues": 16,
             "owner": "JetBrains",
             "repo": "intellij-plugins",
@@ -726,7 +726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:37:46.354Z",
+    "last_updated": "2026-10-03T16:30:02.867Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ColdFusion frameworks, libraries and software.",
