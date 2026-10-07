@@ -65,8 +65,8 @@
             "id": 18945285,
             "language": "ColdFusion",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-01T21:03:06Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-07T17:56:46Z",
+            "open_issues": 3,
             "owner": "Ortus-Solutions",
             "repo": "TestBox",
             "stars": 73,
@@ -198,8 +198,8 @@
             "id": 19508826,
             "language": "ColdFusion",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-06T15:40:42Z",
-            "open_issues": 76,
+            "last_commit": "2026-10-07T14:56:51Z",
+            "open_issues": 77,
             "owner": "pixl8",
             "repo": "Preside-CMS",
             "stars": 75,
@@ -340,7 +340,7 @@
             "open_issues": 4,
             "owner": "ghidinelli",
             "repo": "cfpayment",
-            "stars": 92,
+            "stars": 91,
             "topics": [
               "cfml",
               "coldfusion"
@@ -473,11 +473,11 @@
             "id": 5453324,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-06T18:18:43Z",
+            "last_commit": "2026-10-07T18:38:55Z",
             "open_issues": 17,
             "owner": "JetBrains",
             "repo": "intellij-plugins",
-            "stars": 2275,
+            "stars": 2276,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:44.178Z"
@@ -726,7 +726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T18:28:10.604Z",
+    "last_updated": "2026-10-07T18:58:55.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ColdFusion frameworks, libraries and software.",
