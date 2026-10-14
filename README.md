@@ -1,6 +1,6 @@
 # Awesome ColdFusion with stars
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,029 | 🐛 27 | 📅 2026-10-10.
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,027 | 🐛 26 | 📅 2026-10-14.
 
 Pull requests very welcome.
 
@@ -37,7 +37,7 @@ Pull requests very welcome.
 
 * [MXUnit](https://github.com/mxunit/mxunit) ⭐ 87 | 🐛 19 | 🌐 ColdFusion | 📅 2019-11-20 - xUnit style unit testing framework
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) ⭐ 81 | 🐛 7 | 🌐 ColdFusion | 📅 2020-11-26 - A native Selenium RC binding for ColdFusion
-* [TestBox](https://github.com/Ortus-Solutions/TestBox) ⭐ 73 | 🐛 4 | 🌐 ColdFusion | 📅 2026-10-13 - BDD style unit testing framework
+* [TestBox](https://github.com/Ortus-Solutions/TestBox) ⭐ 73 | 🐛 4 | 🌐 ColdFusion | 📅 2026-10-14 - BDD style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2021-05-07 - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [MockBox](https://testbox.ortusbooks.com/mocking/mockbox) - The ColdFusion Mocking/Stubbing Framework
 
@@ -50,7 +50,7 @@ Pull requests very welcome.
 ## CMS
 
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) ⭐ 126 | 🐛 20 | 🌐 ColdFusion | 📅 2026-09-25 - A powerful modular content management engine
-* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 71 | 🌐 ColdFusion | 📅 2026-10-13 - an open source CMS for the Railo language
+* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 72 | 🌐 ColdFusion | 📅 2026-10-14 - an open source CMS for the Railo language
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) ⭐ 7 | 🐛 0 | 🌐 ColdFusion | 📅 2017-02-14
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [Mura](https://www.murasoftware.com/)
@@ -83,8 +83,8 @@ Pull requests very welcome.
 
 ## Editors
 
-* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) ⭐ 2,277 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-13
-* [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) ⭐ 114 | 🐛 20 | 🌐 Python | 📅 2026-10-05 - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
+* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) ⭐ 2,277 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-14
+* [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) ⭐ 114 | 🐛 20 | 🌐 Python | 📅 2026-10-13 - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) ⭐ 37 | 🐛 12 | 🌐 JavaScript | 📅 2018-10-24 - CFML Language plugin for [Atom](https://atom.io/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) ⭐ 15 | 🐛 0 | 📅 2018-07-06 - [TextMate](http://macromates.com) support for ColdFusion
 * [CFML Extension for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=KamasamaK.vscode-cfml) - CFML Language extension for [VSCode](https://code.visualstudio.com/)
@@ -132,4 +132,4 @@ To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
