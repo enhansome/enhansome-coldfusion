@@ -1,6 +1,6 @@
 # Awesome ColdFusion with stars
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,030 | 🐛 28 | 📅 2026-10-18.
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 27 | 📅 2026-10-18.
 
 Pull requests very welcome.
 
@@ -50,7 +50,7 @@ Pull requests very welcome.
 ## CMS
 
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) ⭐ 126 | 🐛 20 | 🌐 ColdFusion | 📅 2026-10-16 - A powerful modular content management engine
-* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 62 | 🌐 ColdFusion | 📅 2026-10-20 - an open source CMS for the Railo language
+* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 56 | 🌐 ColdFusion | 📅 2026-10-21 - an open source CMS for the Railo language
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) ⭐ 7 | 🐛 0 | 🌐 ColdFusion | 📅 2017-02-14
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [Mura](https://www.murasoftware.com/)
@@ -83,7 +83,7 @@ Pull requests very welcome.
 
 ## Editors
 
-* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) ⭐ 2,280 | 🐛 17 | 🌐 JavaScript | 📅 2026-10-20
+* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) ⭐ 2,279 | 🐛 18 | 🌐 JavaScript | 📅 2026-10-21
 * [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) ⭐ 114 | 🐛 20 | 🌐 Python | 📅 2026-10-13 - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) ⭐ 37 | 🐛 12 | 🌐 JavaScript | 📅 2018-10-24 - CFML Language plugin for [Atom](https://atom.io/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) ⭐ 15 | 🐛 0 | 📅 2018-07-06 - [TextMate](http://macromates.com) support for ColdFusion
@@ -132,4 +132,4 @@ To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
