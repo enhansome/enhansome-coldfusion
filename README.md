@@ -1,6 +1,6 @@
 # Awesome ColdFusion with stars
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,032 | 🐛 27 | 📅 2026-10-18.
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,035 | 🐛 27 | 📅 2026-10-18.
 
 Pull requests very welcome.
 
@@ -37,7 +37,7 @@ Pull requests very welcome.
 
 * [MXUnit](https://github.com/mxunit/mxunit) ⭐ 87 | 🐛 19 | 🌐 ColdFusion | 📅 2019-11-20 - xUnit style unit testing framework
 * [CFSelenium](https://github.com/teamcfadvance/CFSelenium) ⭐ 81 | 🐛 7 | 🌐 ColdFusion | 📅 2020-11-26 - A native Selenium RC binding for ColdFusion
-* [TestBox](https://github.com/Ortus-Solutions/TestBox) ⭐ 73 | 🐛 4 | 🌐 ColdFusion | 📅 2026-10-16 - BDD style unit testing framework
+* [TestBox](https://github.com/Ortus-Solutions/TestBox) ⭐ 73 | 🐛 4 | 🌐 ColdFusion | 📅 2026-10-22 - BDD style unit testing framework
 * [mxunit-watch](https://github.com/atuttle/mxunit-watch) ⭐ 13 | 🐛 2 | 🌐 JavaScript | 📅 2021-05-07 - watch a directory for file changes (.cfc, .cfm, .xml) to trigger mxunit test suite full run, displaying results in the console
 * [MockBox](https://testbox.ortusbooks.com/mocking/mockbox) - The ColdFusion Mocking/Stubbing Framework
 
@@ -50,7 +50,7 @@ Pull requests very welcome.
 ## CMS
 
 * [ContentBox](https://github.com/Ortus-Solutions/ContentBox) ⭐ 126 | 🐛 20 | 🌐 ColdFusion | 📅 2026-10-16 - A powerful modular content management engine
-* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 56 | 🌐 ColdFusion | 📅 2026-10-21 - an open source CMS for the Railo language
+* [Preside CMS](https://github.com/pixl8/Preside-CMS) ⭐ 75 | 🐛 56 | 🌐 ColdFusion | 📅 2026-10-22 - an open source CMS for the Railo language
 * [FarCry CMS](https://github.com/farcrycore/plugin-farcrycms) ⭐ 7 | 🐛 0 | 🌐 ColdFusion | 📅 2017-02-14
 * [CONTENS CMS](http://www.contens.com/) - Professional Content Management
 * [Mura](https://www.murasoftware.com/)
@@ -132,4 +132,4 @@ To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
