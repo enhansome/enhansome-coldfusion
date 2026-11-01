@@ -65,8 +65,8 @@
             "id": 18945285,
             "language": "ColdFusion",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-26T21:43:29Z",
-            "open_issues": 4,
+            "last_commit": "2026-11-01T14:55:20Z",
+            "open_issues": 7,
             "owner": "Ortus-Solutions",
             "repo": "TestBox",
             "stars": 73,
@@ -473,7 +473,7 @@
             "id": 5453324,
             "language": "JavaScript",
             "license": null,
-            "last_commit": "2026-10-31T07:17:08Z",
+            "last_commit": "2026-11-01T02:26:50Z",
             "open_issues": 18,
             "owner": "JetBrains",
             "repo": "intellij-plugins",
@@ -726,7 +726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T17:16:28.242Z",
+    "last_updated": "2026-11-01T17:58:10.334Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ColdFusion frameworks, libraries and software.",
@@ -735,7 +735,7 @@
       "language": null,
       "license": "NOASSERTION",
       "last_commit": "2021-12-29T14:53:49Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "seancoyne",
       "repo": "awesome-coldfusion",
       "stars": 124,
