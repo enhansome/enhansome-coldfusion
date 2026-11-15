@@ -175,7 +175,7 @@
             "open_issues": 6,
             "owner": "Ortus-Solutions",
             "repo": "ContentBox",
-            "stars": 126,
+            "stars": 125,
             "topics": [
               "cfml",
               "cms",
@@ -477,7 +477,7 @@
             "open_issues": 18,
             "owner": "JetBrains",
             "repo": "intellij-plugins",
-            "stars": 2280,
+            "stars": 2281,
             "topics": []
           },
           "first_seen": "2026-08-28T22:27:44.178Z"
@@ -726,7 +726,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T18:16:42.592Z",
+    "last_updated": "2026-11-15T18:57:32.845Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome ColdFusion frameworks, libraries and software.",
@@ -738,7 +738,7 @@
       "open_issues": 4,
       "owner": "seancoyne",
       "repo": "awesome-coldfusion",
-      "stars": 124,
+      "stars": 123,
       "topics": [
         "awesome",
         "awesome-list",
