@@ -1,6 +1,6 @@
 # Awesome ColdFusion with stars
 
-A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,040 | 🐛 41 | 📅 2026-11-22.
+A curated list of awesome ColdFusion frameworks, libraries and software. Inspired by [awesome-javascript](https://github.com/sorrycc/awesome-javascript) ⭐ 35,040 | 🐛 43 | 📅 2026-11-22.
 
 Pull requests very welcome.
 
@@ -31,7 +31,7 @@ Pull requests very welcome.
 * [CFWheels](https://cfwheels.org) - An open source CFML framework inspired by Ruby on Rails.
 * [ColdBox](http://www.coldbox.org) - The Enterprise ColdFusion MVC Development Platform
 * [FarCry](http://www.farcrycore.org) - FarCry Core is a web application framework that helps CFML developers build tailor-made content solutions, fast.
-* [FW/1 - Framework One](https://github.com/framework-one/fw1) ⭐ 368 | 🐛 17 | 🌐 ColdFusion | 📅 2024-07-15 - a lightweight, convention over configuration, MVC application framework
+* [FW/1 - Framework One](https://github.com/framework-one/fw1) ⭐ 368 | 🐛 19 | 🌐 ColdFusion | 📅 2024-07-15 - a lightweight, convention over configuration, MVC application framework
 
 ## Testing
 
@@ -65,7 +65,7 @@ Pull requests very welcome.
 ## REST
 
 * [ColdBox REST](https://coldbox.ortusbooks.com/digging-deeper/recipes/building-rest-apis) - Native REST routing and rendering capababilities
-* [FW/1 REST](https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis) ⭐ 368 | 🐛 17 | 🌐 ColdFusion | 📅 2024-07-15 - Native REST routing and rendering capababilities
+* [FW/1 REST](https://github.com/framework-one/fw1/wiki/Developing-Applications-Manual#controllers-for-rest-apis) ⭐ 368 | 🐛 19 | 🌐 ColdFusion | 📅 2024-07-15 - Native REST routing and rendering capababilities
 * [Taffy](http://taffy.io) - The REST Web Service framework for ColdFusion and Railo
 * [CFWheels RESTful](https://guides.cfwheels.org/docs/routing) - CFWheels encourages a conventional RESTful and resourceful style of request handling.
 
@@ -83,7 +83,7 @@ Pull requests very welcome.
 
 ## Editors
 
-* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) ⭐ 2,280 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-22
+* [IntelliJ Idea](http://www.jetbrains.com/idea/) - Java IDE, CFML Support available via [plugin](https://github.com/JetBrains/intellij-plugins/tree/master/CFML) ⭐ 2,279 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-23
 * [CFML Package for Sublime Text 3](https://github.com/jcberquist/sublimetext-cfml) ⭐ 113 | 🐛 20 | 🌐 Python | 📅 2026-10-13 - CFML syntax highlighting as well as function and tag completions for [Sublime Text 3](http://www.sublimetext.com)
 * [CFML Language for Atom](https://github.com/atuttle/atom-language-cfml) ⭐ 37 | 🐛 12 | 🌐 JavaScript | 📅 2018-10-24 - CFML Language plugin for [Atom](https://atom.io/)
 * [TextMate](https://github.com/textmate/coldfusion.tmbundle) ⭐ 15 | 🐛 0 | 📅 2018-07-06 - [TextMate](http://macromates.com) support for ColdFusion
@@ -132,4 +132,4 @@ To the extent possible under law, [Sean Coyne](https://github.com/seancoyne/awes
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
